@@ -2,7 +2,7 @@
 
 // votes on different activities
 int  diving = 2;
-int swimming = 0;
+int swimming = 3;
 int shopping = 3;
 int eat_nice_food = 4;
 int dancing = 4;
