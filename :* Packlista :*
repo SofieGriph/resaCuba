@@ -7,4 +7,5 @@ int snadaler=2
 int shorts=3
 int solglasögon=2
 int solkräm=solfaktor 50,40,30,20
+int baddräkt
 
